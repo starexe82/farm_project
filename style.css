@@ -1,0 +1,32 @@
+div#tekst_sverhu_kartinki {
+  position: relative;
+}
+.tekst_sverhu_kartinki {
+  position: absolute;
+
+  top: 50%;
+
+  left: 38%;
+
+  text-transform: uppercase;
+
+  width: 350px;
+
+  padding: 20px;
+
+  text-align: center;
+
+  font: bold 48px / 48px Sans-Serif;
+}
+a:link {
+  color: #080808;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a {
+  color: black;
+}
