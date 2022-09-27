@@ -1,32 +1,15 @@
-div#tekst_sverhu_kartinki {
-  position: relative;
-}
-.tekst_sverhu_kartinki {
-  position: absolute;
-
-  top: 50%;
-
-  left: 38%;
-
-  text-transform: uppercase;
-
-  width: 350px;
-
-  padding: 20px;
-
+h1 {
   text-align: center;
-
-  font: bold 48px / 48px Sans-Serif;
 }
-a:link {
-  color: #080808;
+h2 {
+  text-align: center;
 }
-a {
-  text-decoration: none;
+.img-responsive {
+  max-width: 100%;
+  height: auto;
 }
-a:hover {
-  text-decoration: underline;
-}
-a {
-  color: black;
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
